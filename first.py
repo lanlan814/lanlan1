@@ -8,7 +8,7 @@ st.markdown('## 个人爱好')
 st.markdown('''1.吃饭🥗  2. 睡觉✅ 3. 看电影😎 4.撸猫🐱
 ''')
 st.markdown('# 养猫MVP结算展示')
-st.image("D:/1111.jpg",caption="🐱🐱🐱这是我的魔法猫咪悠米，今年1岁了🐱🐱🐱")
+st.image("https://github.com/lanlan814/lanlan1/raw/main/1111.jpg",caption="🐱🐱🐱这是我的魔法猫咪悠米，今年1岁了🐱🐱🐱")
 st.markdown('# MBTI人格类型')
 st.markdown('*:green[活动者]*')
 st.markdown('*我对您的工作不感兴趣。我想知道您的痛苦--以及您是否敢于梦想满足自己的内心渴望。*')
